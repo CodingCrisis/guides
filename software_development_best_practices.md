@@ -1,4 +1,4 @@
-# Software Development Best Practices by Coding Crisis
+# Software Development Best Practices by @CodingCrisis
 
 ## Goal
 Ensure unified and successful completion of software component construction by providing a shared understanding of best practices 
