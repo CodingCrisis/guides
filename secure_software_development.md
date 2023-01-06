@@ -1,4 +1,4 @@
-# Guide to secure software development
+# Guide to secure software development by @CodingCrisis
 ## Goal 
 Ensure unified and successful completion of software component construction by providing a shared understanding of how to develop a secure solution. 
 ## Security by design 
