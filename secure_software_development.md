@@ -1,6 +1,6 @@
 # Guide to secure software development by @CodingCrisis
 ## Goal 
-Ensure unified and successful completion of software component construction by providing a shared understanding of how to develop a secure solution. 
+Ensure unified and successful completion of software construction by providing a shared understanding of how to develop a secure solution. 
 ## Security by design 
 Security by design is an approach to software development that seeks to make systems as free of vulnerabilities and impervious to attack as possible through such measures as continuous testing, authentication safeguards and adherence to best programming practices. 
 Security assurance should be a vital part of all stages of software development. This guide focuses on tips related to software construction. It assumes that any activities performed both earlier (e.g., modeling) and later (e.g., testing) are also executed with security in mind.
