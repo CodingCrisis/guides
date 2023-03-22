@@ -24,6 +24,7 @@ Specific practices should be gathered and shared on team level, as they are rela
 * Keep code complexity in check – observe Cyclomatic Complexity and Cognitive Complexity metrics. Agree upon lowest manageable levels.
 * Do not be afraid of refactoring. If tests are done right, refactoring should be relatively safe.
 * Consider using design patterns to facilitate understandability, reusability and testing. 
+* Manage external dependencies in a structural way. Keep track of any 3rd party libraries or products, make sure they are up to date, relevant and legal. 
 * Siloed knowledge is bad – do not limit access to your code to other programmers and teams. 
 * Ensure Unit Tests apply to the unit of behavior, not the unit of implementation.  
 * Do not test “other people’s code” e.g., external libraries, 3rd party products. Use mocks.
